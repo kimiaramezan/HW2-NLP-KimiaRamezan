@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+DOCRED_CS5712/
+
+# Large trained model files
+Part1/*.joblib
+Part2/*.joblib

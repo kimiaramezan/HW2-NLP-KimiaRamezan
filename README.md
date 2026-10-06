@@ -33,7 +33,6 @@ HW2-NLP-KimiaRamezan/
 │
 ├── DOCRED_CS5712/
 ├── requirements.txt
-└── FINAL_SUBMISSION_CHECKLIST.txt
 ```
 
 Detailed training, prediction, evaluation commands, model descriptions, and error analyses are provided in the README files inside `Part1/` and `Part2/`.

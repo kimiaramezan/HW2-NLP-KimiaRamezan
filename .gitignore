@@ -7,3 +7,8 @@ DOCRED_CS5712/
 # Large trained model files
 Part1/*.joblib
 Part2/*.joblib
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+*.joblib
